@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test2.MainActivity" >
+
+    <item
+        android:id="@+id/action_listview"
+        android:orderInCategory="100"
+        android:title="ListView"
+        />
+    <item
+        android:id="@+id/action_gridview"
+        android:orderInCategory="100"
+        android:title="GridView"
+        />
+    <item
+        android:id="@+id/action_hor_gridview"
+        android:orderInCategory="100"
+        android:title="hor gridview"
+        />
+    <item
+        android:id="@+id/action_staggered"
+        android:orderInCategory="100"
+        android:title="staggeredgridview"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="settings"
+        />
+
+</menu>
